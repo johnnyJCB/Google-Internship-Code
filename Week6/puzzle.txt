@@ -1,0 +1,10 @@
+A childrens puzzle that was popular 30 years ago consisted of a 5×5 frame which contained 24 small squares of equal size. A unique letter of the alphabet was printed on each small square. Since there were only 24 squares within the frame, the frame also contained an empty position which was the same size as a small square. A square could be moved into that empty position if it were immediately to the right, to the left, above, or below the empty position. The object of the puzzle was to slide squares into the empty position so that the frame displayed the letters in alphabetical order.
+
+The illustration below represents a puzzle in its original configuration and in its configuration after the following sequence of 6 moves:
+
+The square above the empty position moves.
+The square to the right of the empty position moves.
+The square to the right of the empty position moves.
+The square below the empty position moves.
+The square below the empty position moves.
+The square to the left of the empty position moves.
