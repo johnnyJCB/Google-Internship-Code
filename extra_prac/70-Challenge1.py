@@ -1,12 +1,13 @@
-#Step 1 
-from random import random, shuffle
+import random
 
 word_list: list[str] = ["aardvark", "baboon", "camel"]
 
 #TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word.
 
-shuffle(word_list)
-chosen_word:str = word_list[1]
+# shuffle(word_list)
+# chosen_word:str = word_list[1]
+
+chosen_word:str = random.choice(word_list)
 
 #TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
 
@@ -19,3 +20,5 @@ if guess in chosen_word:
     print (f"The letter {guess} is in the chosen word which was {chosen_word}.")
 else:
     print (f"The letter {guess} is not in the chosen word which was {chosen_word}.")
+    
+    
