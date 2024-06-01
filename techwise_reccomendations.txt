@@ -1,0 +1,11 @@
+Techwise notes:
+
+Python helper functions = 1 task per function
+
+Stanford Computer Science Class
+
+Linear algebra for ML
+
+books reccomended:
+1. cracking the coding interview
+2. grokking algorithms

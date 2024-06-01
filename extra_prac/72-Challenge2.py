@@ -14,7 +14,7 @@ for letter in chosen_word:
     display.append("_")
 print(display)
 
-guess = input("Guess a letter: ").lower()
+# guess = input("Guess a letter: ").lower()
 
 # print(display)
 #TODO-2: - Loop through each position in the chosen_word;
